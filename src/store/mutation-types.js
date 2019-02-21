@@ -1,0 +1,5 @@
+export const REQURE_ADDRESS = "requre_address"
+export const RECEVIE_CATGORYS = "recevie_catgorys"
+export const RECEVIE_SHOPS = "recevie_shops"
+export const REVEVIE_USERINFO = "recevie_userinfo"
+export const RESET_USERINFO = "reset_userinfo"
